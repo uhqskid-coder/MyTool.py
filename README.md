@@ -293,7 +293,7 @@ Pour tester légalement :
 - Les OSINT : n'interroge que des identifiants **publics** ou avec le consentement de la personne concernée.
 
 ---
-
+N'hésitez pas à rejoindre le discord avec ce lien : https://discord.gg/rguBZjaYnR
 *by BasedF*
 ```
 

@@ -294,6 +294,7 @@ Pour tester légalement :
 
 ---
 N'hésitez pas à rejoindre le discord avec ce lien : https://discord.gg/rguBZjaYnR
+Allez aussi voir la vidéo de présentation du tool voici le lien : https://www.youtube.com/watch?v=6c2V-xz6688
 *by BasedF*
 ```
 

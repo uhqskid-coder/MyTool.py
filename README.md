@@ -68,6 +68,16 @@ Sur Windows, Python doit être ajouté au **PATH** pendant l'installation :
 
 ```bash
 pip install requests aiohttp phonenumbers pyautogui pyperclip
+
+Installation sur Linux :
+
+git clone https://github.com/uhqskid-coder/MyTool.py.git
+
+cd MyTool.py
+
+python3 mytool.py
+
+⚠️ Les builder ne marche pas sur Linux ⚠️ 
 ```
 
 Dépendances optionnelles (selon les options utilisées) :
